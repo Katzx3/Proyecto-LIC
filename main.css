@@ -1,0 +1,62 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-image: url("back.jpg");
+    
+}
+.navbar {
+    background:black;
+    vertical-align: middle;
+    
+}
+.nav-link,
+.navbar-brand {
+    color: #fff;
+    cursor: pointer;
+}
+.nav-link {
+    margin-right: 1em !important;
+}
+.nav-link:hover {
+    color: #000;
+}
+.navbar-collapse {
+    justify-content: flex-end;
+}
+
+.container{
+    padding: 1;
+    margin: 1;
+    outline-offset: inherit;
+}
+
+.container-1{
+    padding: 0;
+    margin: 0;
+    background: black;
+    text-align: center;
+    align-content: middle;        
+}
+
+.banco{
+    color: white;
+    vertical-align: middle;
+    
+}
+
+.col{
+    height: auto;
+    width: auto;
+}
+
+input{
+    padding: 0;
+    margin: 0;
+    
+    
+}
+
+.btn btn-primary{
+    height: 100;
+    width: 233;
+}
